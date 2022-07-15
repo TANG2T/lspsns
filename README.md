@@ -1,8 +1,10 @@
-## lspsns.com
+# lspAPP 中转站
+- 👀 下载APP请点击：www.lspsns.com
+- 😺 收藏本页面防止丢失
 
-## lspAPP地址发布页，防止走丢
+# LSP栖息的地方
 
-- 👋 Hi, I’m @LSPSNS
+- 👋 QQ群：1018581212
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ lsp：www.lspsns.com
