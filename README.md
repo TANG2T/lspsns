@@ -6,12 +6,15 @@
 ### LSP栖息的地方
 
 - 👋 QQ群：1018581212
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 微博：亲爱的你好厉害
+- 🌱 电报：@bymilu
 - 💞️ lsp：www.lspsns.com
 - 📫 客服QQ：1776222711
 
-愿每一个“L S P”都能向着太阳奔跑，那里会有人给你一个从未有过信仰的人的忠诚，给你一个让心栖息的港湾！
+愿每一个 “LSP”都能向着太阳奔跑，那里会有人给你一个从未有过信仰的人的忠诚，给你一个让心栖息的港湾！
+
+
+
 
 <!---
 TANG2T/TANG2T is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
