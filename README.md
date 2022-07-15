@@ -1,14 +1,14 @@
 # lspsns
 社区地址发布页，防止走丢
 
-地址：www.LSPSNS.COM
+LSPAPP下载
 
 
 - 👋 Hi, I’m @LSPSNS
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ lsp：www.lspsns.com
+- 📫 客服QQ：1776222711
 
 <!---
 TANG2T/TANG2T is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
