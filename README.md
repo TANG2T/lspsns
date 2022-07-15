@@ -1,6 +1,7 @@
 ## lspsns.com
 
-## lspAPP地址发布页，防止走丢
+<p align="center"> ## lspAPP地址发布页，防止走丢
+  </p>
 
 ### LSPAPP下载
 
