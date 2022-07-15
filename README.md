@@ -1,10 +1,6 @@
 ## lspsns.com
 
-<p align="center"> ## lspAPP地址发布页，防止走丢
-  </p>
-
-### LSPAPP下载
-
+## lspAPP地址发布页，防止走丢
 
 - 👋 Hi, I’m @LSPSNS
 - 👀 I’m interested in ...
